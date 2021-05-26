@@ -6,3 +6,6 @@
 
 ## Apk Download
 Download [here](https://github.com/k27n/scanForTaiwan/releases/download/1.0/default.apk). (test version)
+
+## Privacy Policy
+  * This APP not collect any personal data from user
