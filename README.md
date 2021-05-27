@@ -8,4 +8,4 @@
 Download [here](https://github.com/k27n/scanForTaiwan/releases/download/1.0/default.apk). (test version)
 
 ## Privacy Policy
-  * This APP not collect any personal data from user
+  * This APP doesn't collect any type of personal data from user
