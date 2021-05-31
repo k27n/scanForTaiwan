@@ -5,7 +5,7 @@
   * 自動跳轉簡訊畫面
 
 ## Apk Download
-Download [here](https://github.com/k27n/scanForTaiwan/releases/download/1.0/default.apk). (test version)
+Download [here](https://github.com/k27n/scanForTaiwan/releases/download/1.0/default.apk)
 
 ## Privacy Policy
   * This APP doesn't collect any type of personal data from user
