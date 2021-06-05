@@ -1,11 +1,17 @@
 ![掃實聯掃icon](https://github.com/k27n/scanForTaiwan/blob/main/ic_launcher.png?raw=true "掃實聯掃icon")
 # 掃實聯
-  * Support Android platform only.
-  * 辨別政院版實聯QRCode
-  * 自動跳轉簡訊畫面
+* Support Android platform only.
+* 辨別政院版實聯QRCode
+* 自動跳轉簡訊畫面(僅限1922收件人)
+* 推廣使用社交距離
 
 ## Apk Download
-Download [here](https://play.google.com/store/apps/details?id=com.snf)
+### Basic Version
+Download from [GooglePlay](https://play.google.com/store/apps/details?id=com.snf)
+
+### Advanced Version
+* 長按螢幕開啟掃描後自動傳送(僅限1922收件人)
+* Download from [Github](https://github.com/k27n/scanForTaiwan/raw/main/掃實聯_Advanced.apk)
 
 ## Privacy Policy
-  * This APP doesn't collect any type of personal data from user
+* This APP doesn't collect any type of personal data from user. ([full text](https://github.com/k27n/scanForTaiwan/blob/main/PrivacyPolicy.md))
