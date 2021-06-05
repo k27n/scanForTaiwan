@@ -10,7 +10,7 @@
 Download from [GooglePlay](https://play.google.com/store/apps/details?id=com.snf)
 
 ### Advanced Version
-* 長按螢幕開啟掃描後自動傳送(僅限1922收件人)
+* "長按螢幕"開啟自動傳送簡訊(僅限1922收件人)
 * Download from [Github](https://github.com/k27n/scanForTaiwan/raw/main/掃實聯_Advanced.apk)
 
 ## Privacy Policy
